@@ -1,0 +1,3 @@
+<img src="~/Box Sync/Fall2016_Courses/ANT_298_F16/github/Lab6/Images/CalFlag.png">
+<br></br>
+<h1><center>Welcome to my wonderful Shiny App</h1></center>
